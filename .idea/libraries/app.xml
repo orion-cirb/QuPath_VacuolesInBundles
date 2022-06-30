@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="app">
+    <CLASSES>
+      <root url="file:///opt/QuPath/lib/app" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///opt/QuPath/lib/app" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file:///opt/QuPath/lib/app" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="qupath-app-0.3.2">
+    <CLASSES>
+      <root url="jar:///opt/QuPath/lib/app/qupath-app-0.3.2.jar!/" />
+      <root url="jar:///opt/QuPath/lib/app/qupath-core-0.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
