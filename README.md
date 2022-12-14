@@ -14,19 +14,9 @@
 
 ### Plugin description
 
-* Rotate, crop et normalise the images in Fiji
-*
-
-Travailler uniquement dans des annotations
-
-Segmenter l'image
-
-Filtrer les bundles/vacuoles par leur taille
-
-Conserver uniquement les vacuoles à l'intérieur des bundles
-
-Sauver le nombre de bundles/vacuoles et leurs aires
-
+* Rotate, crop et normalise images in Fiji
+* Detect the bundles and vacuoles with a pixel classifier
+* Keep vacuoles in bundles only
 
 ### Dependencies
 
